@@ -1,0 +1,34 @@
+.start{
+	background-color: grey;
+	height: 250px;
+}
+.text1{
+	font-family: Calibri;
+	margin-left: 750px;
+}
+.info{
+	background-color: gray;
+	height: 250px;
+}
+.text2{
+	font-family: Calibri;
+	margin-left: 750px;
+}
+.git{
+	height: 200px;
+	width: 200px;
+	margin-left: 100px;
+}
+.koala{
+	height: 200px;
+	width: 200px;
+	margin-left: 150px;
+}
+.linux{
+	height: 200px;
+	width: 200px;
+	margin-left: 200px;
+}
+.images{
+	border: 3px solid black;
+}
